@@ -1,2 +1,2 @@
 # trooman.github.io
-Уроки hexlet
+small projects
